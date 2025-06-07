@@ -1,6 +1,8 @@
-# TaccoonStudios
+# The Crafting Reimagimed Wiki
+### The place for info.
 
-## Projects
+## What do you need info on
+
 ### Project 1
 - Description
 - Links
