@@ -2,8 +2,10 @@
 
 ## What do you need info on
 
-### [geting started](https://www.youtube.com/@TaccoonStudios)
+### [Geting Started]()
 
-### [Items]{}
+### [Progression]()
 
-### [Recipes]{}
+### [Items]()
+
+### [Recipes]()
