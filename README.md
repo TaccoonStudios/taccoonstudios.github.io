@@ -3,17 +3,9 @@
 
 ## What do you need info on
 
-### Project 1
-- Description
-- Links
 
-### Project 2
-- Description
-- Links
+### [Getting Started]{}
 
-# Education
-- Some University
+### [Items]{}
 
-# Work History
-- Work Place 1
-- Work Place 2
+### [Recipes]{}
