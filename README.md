@@ -1,5 +1,4 @@
 # The Crafting Reimagimed Wiki
-### The place for info.
 
 ## What do you need info on
 
