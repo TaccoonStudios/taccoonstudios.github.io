@@ -1,6 +1,7 @@
 # The Crafting Reimagimed Wiki
 
-## What do you need info on
+
+# What do you need info on
 
 ### Project 1
 - Description
