@@ -2,7 +2,7 @@
 
 ## What do you need info on
 
-### [Getting Started]{https://www.youtube.com/@TaccoonStudios}
+### [geting started](https://www.youtube.com/@TaccoonStudios)
 
 ### [Items]{}
 
